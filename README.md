@@ -1,6 +1,6 @@
 # EMOJIPALOOZA EMOJI PICKER
 
-🦄 • A premium (free & open-source) emoji picker for everyone. Launch—find—copy in seconds, with simple navigation and smart search. No ads, gimmicks, or gotchas. Available on: 🖥️ .: Desktop ｜ 🌐 .: [Web](https://emojipalooza.com)
+A premium (free & open-source) emoji picker for everyone. Launch—find—copy in seconds, with simple navigation and smart search. No ads, gimmicks, or gotchas. Available on: 🖥️ .: Desktop ｜ 🌐 .: [Web](https://emojipalooza.com)
 
 <br>
 
